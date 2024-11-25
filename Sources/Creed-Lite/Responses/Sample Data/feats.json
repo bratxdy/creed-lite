@@ -1,0 +1,103 @@
+{
+    "id": "550e8400-e29b-41d4-a716-446655440001",
+    "title": "Feats of Strength",
+    "subtitle": "December 2024",
+    "feats": [
+        {
+            "id": "550e8400-e29b-41d4-a716-446655440002",
+            "name": "2 min Air Squats",
+            "description": "Complete as many air squats as you can in 2 minutes.",
+            "image_url": "https://ladderteams.imgix.net/movement-thumbnails/crews-control-2023-11/98.%20Air%20Squat.00_00_04_13.Still003.jpg",
+            "video_url": "https://ladder-bootcamp-media-prod.s3.amazonaws.com/movement-videos/crews-control-2023-11/98.%20Air%20Squat.mp4",
+            "completion_count": 150,
+            "top_3_users": [
+                {
+                    "id": "550e8400-e29b-41d4-a716-446655440000",
+                    "image_url": "https://avatar.iran.liara.run/public/boy?username=John%20Doe"
+                },
+                {
+                    "id": "550e8400-e29b-41d4-a716-446655440001",
+                    "image_url": "https://avatar.iran.liara.run/public/girl?username=Jane%20Smith"
+                },
+                {
+                    "id": "550e8400-e29b-41d4-a716-446655440002",
+                    "image_url": "https://avatar.iran.liara.run/public/boy?username=Mike%20Brown"
+                }
+            ],
+            "duration_seconds": 120,
+            "movement": "Air Squats"
+        },
+        {
+            "id": "550e8400-e29b-41d4-a716-446655440003",
+            "name": "1 min Push-Ups",
+            "description": "Perform as many push-ups as you can in 1 minute.",
+            "image_url": "https://ladderteams.imgix.net/movement-thumbnails/crews-control-2023-11/17.%20Chest%20to%20Floor%20Push%20Up.00_00_02_21.Still001.jpg",
+            "video_url": "https://ladder-bootcamp-media-prod.s3.amazonaws.com/movement-videos/crews-control-2023-11/17.%20Chest%20to%20Floor%20Push%20Up.mp4",
+            "completion_count": 75,
+            "top_3_users": [
+                {
+                    "id": "550e8400-e29b-41d4-a716-446655440000",
+                    "image_url": "https://avatar.iran.liara.run/public/boy?username=John%20Doe"
+                },
+                {
+                    "id": "550e8400-e29b-41d4-a716-446655440001",
+                    "image_url": "https://avatar.iran.liara.run/public/girl?username=Jane%20Smith"
+                },
+                {
+                    "id": "550e8400-e29b-41d4-a716-446655440002",
+                    "image_url": "https://avatar.iran.liara.run/public/boy?username=Mike%20Brown"
+                }
+            ],
+            "duration_seconds": 60,
+            "movement": "Push-Ups"
+        },
+        {
+            "id": "550e8400-e29b-41d4-a716-446655440004",
+            "name": "3 min Burpees",
+            "description": "Complete as many burpees as you can in 3 minutes.",
+            "image_url": "https://ladderteams.imgix.net/movement-thumbnails/crews-control-2023-11/104.%20Burpees.00_00_06_22.Still003.jpg",
+            "video_url": "https://ladder-bootcamp-media-prod.s3.amazonaws.com/movement-videos/crews-control-2023-11/104.%20Burpees.mp4",
+            "completion_count": 90,
+            "top_3_users": [
+                {
+                    "id": "550e8400-e29b-41d4-a716-446655440000",
+                    "image_url": "https://avatar.iran.liara.run/public/boy?username=John%20Doe"
+                },
+                {
+                    "id": "550e8400-e29b-41d4-a716-446655440001",
+                    "image_url": "https://avatar.iran.liara.run/public/girl?username=Jane%20Smith"
+                },
+                {
+                    "id": "550e8400-e29b-41d4-a716-446655440002",
+                    "image_url": "https://avatar.iran.liara.run/public/boy?username=Mike%20Brown"
+                }
+            ],
+            "duration_seconds": 180,
+            "movement": "Burpees"
+        },
+        {
+            "id": "550e8400-e29b-41d4-a716-446655440005",
+            "name": "5 min 1,2,3 Up Downs",
+            "description": "Hold a plank position for as long as possible within 5 minutes.",
+            "image_url": "https://ladderteams.imgix.net/movement-thumbnails/crews-control-2023-11/6.%201%202%203%20Up%20Down.00_00_04_00.Still001.jpg",
+            "video_url": "https://ladder-bootcamp-media-prod.s3.amazonaws.com/movement-videos/crews-control-2023-11/6.%201%202%203%20Up%20Down.mp4",
+            "completion_count": 10,
+            "top_3_users": [
+                {
+                    "id": "550e8400-e29b-41d4-a716-446655440000",
+                    "image_url": "https://avatar.iran.liara.run/public/boy?username=John%20Doe"
+                },
+                {
+                    "id": "550e8400-e29b-41d4-a716-446655440001",
+                    "image_url": "https://avatar.iran.liara.run/public/girl?username=Jane%20Smith"
+                },
+                {
+                    "id": "550e8400-e29b-41d4-a716-446655440002",
+                    "image_url": "https://avatar.iran.liara.run/public/boy?username=Mike%20Brown"
+                }
+            ],
+            "duration_seconds": 300,
+            "movement": "Plank"
+        }
+    ]
+}

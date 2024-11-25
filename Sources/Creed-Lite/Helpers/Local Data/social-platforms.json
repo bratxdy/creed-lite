@@ -1,0 +1,50 @@
+[
+    {
+        "id":"facebook",
+        "name": "Facebook",
+        "iconName": "facebook.template.logo",
+        "url": "https://www.facebook.com/",
+        "instructions": "**To find and copy your Facebook URL on the mobile app:**\n\n1. Open Facebook mobile app on your phone.\n2. Tap **Main Menu** in the bottom of your nav bar.\n3. Tap your **avatar image** open your profile.\n4. Tap squared **three dots**.\n5. Scroll down to the bottom. You can see your profile link.\n6. Tap **copy link** and paste here.",
+        "cta": "CLICK HERE TO PASTE LINK"
+    },
+    {
+        "id":"instagram",
+        "name": "Instagram",
+        "iconName": "instagram.template.logo",
+        "url": "https://www.instagram.com/",
+        "instructions": "**To find and copy your Instagram URL on the mobile app:**\n\n1. Open Instagram mobile app on your phone.\n2. Tap **Profile** in the bottom right of your navigation bar.\n3. Tap the **hamburger menu** in the top right.\n4. Tap **QR Code** open your profile.\n5. Tap **share icon** in the top right.\n6. Tap **Copy** and paste here.",
+        "cta": "CLICK HERE TO PASTE PHOTO"
+    },
+    {
+        "id":"twitter",
+        "name": "Twitter",
+        "iconName": "twitter.template.logo",
+        "url": "https://www.twitter.com/",
+        "instructions": "**To find and copy your Twitter Handle on the mobile app:**\n\n1. Open Twitter mobile app on your phone.\n2. Tap your **Profile Picture** in the top left of the home screen.\n3. Tap the **QR code icon** in the bottom right of the menu.\n4. Tap **share icon** in the top right.\n5. Tap **Copy Photo** and paste here.",
+        "cta": "CLICK HERE TO PASTE PHOTO"
+    },
+    {
+        "id":"tiktok",
+        "name": "TikTok",
+        "iconName": "tiktok.template.logo",
+        "url": "https://www.tiktok.com/",
+        "instructions": "**To find and copy your TikTok Username on the mobile app:**\n\n1. Open TikTok mobile app on your phone.\n2. Tap **Profile** in the bottom right of the nav bar.\n3. Tap the **Hamburger Menu** in the top right of your profile.\n4. Tap Settings and privacy.\n5. Tap **Share profile**.\n6. Tap **Copy Link** and paste here.",
+        "cta": "CLICK HERE TO PASTE PHOTO"
+    },
+    {
+        "id":"snapchat",
+        "name": "Snapchat",
+        "iconName": "snapchat.template.logo",
+        "url": "https://www.snapchat.com/",
+        "instructions": "**To find your Snapchat URL on the mobile app:**\n\n 1. Open your Snapchat app and go to your Profile (top left).\n 2. Click the Share icon next to your Settings (top right).\n 3. In the Share menu, click on Copy.\n 4. Paste the copied link here.",
+        "cta": "CLICK HERE TO PASTE LINK"
+    },
+    {
+        "id":"linkedin",
+        "name": "LinkedIn",
+        "iconName": "linkedin.template.logo",
+        "url": "https://www.linkedin.com/",
+        "instructions": "**To find your LinkedIn URL on the mobile app:**\n\n 1. Open LinkedIn mobile app on your phone.\n 2. Tap your profile photo (top left) > View Profile.\n 3. In the header of your profile, tap the three dots\n 4. Click Share via\n 5. Click Copy\n 6. Paste the copied link here.",
+        "cta": "CLICK HERE TO PASTE LINK"
+    }
+]

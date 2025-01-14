@@ -19,6 +19,13 @@ class FeatsClientTests: XCTestCase {
         XCTAssertEqual(monthlyFeats.feats.count, 4)
     }
     
+    func test_Feats_JSONParsing() async throws {
+        let client = FeatsClient.testValue
+        let monthlyFeats = try await client.listMonthlyFeats()
+        
+        XCTAssertEqual(monthlyFeats.feats.first!.durationSeconds, 120)
+    }
+    
     func test_LeaderBoard_JSONParsing() async throws {
         let client = FeatsClient.testValue
         let leaderboard = try await client.getFeatLeaderboard(Feat.Id(rawValue: "1"))

@@ -55,6 +55,7 @@ public struct Feat: APIModel {
     public let completionCount: Int
     public let top3Users: [FeatUser]
     public let movement: String
+    public let durationSeconds: Int
     
     enum CodingKeys: String, CodingKey {
         case id
@@ -65,6 +66,7 @@ public struct Feat: APIModel {
         case completionCount = "completion_count"
         case top3Users = "top_3_users"
         case movement
+        case durationSeconds = "duration_seconds"
     }
 }
 

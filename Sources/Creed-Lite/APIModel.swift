@@ -7,4 +7,4 @@
 
 import Foundation
 
-typealias APIModel = Equatable & Identifiable & Decodable & Sendable & Hashable
+typealias APIModel = Equatable & Identifiable & Decodable & Sendable

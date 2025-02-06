@@ -70,6 +70,18 @@ public struct Feat: APIModel {
     }
 }
 
+extension Feat: Hashable {
+    public static func == (lhs: Feat, rhs: Feat) -> Bool {
+        return lhs.id == rhs.id
+    }
+    
+    public func hash(into hasher: inout Hasher) {
+        hasher.combine(id)
+        hasher.combine(name)
+        hasher.combine(description)
+    }
+}
+
 public struct FeatUser: APIModel {
     
     public typealias Id = Tagged<Self, String>
